@@ -17,10 +17,8 @@ body:
       label: 대상 플랫폼
       description: 어느 플랫폼의 개선인가요?
       options:
-        - Web
         - App
         - Server
-        - 전체 플랫폼
         - 기타
       multiple: true
     validations:
